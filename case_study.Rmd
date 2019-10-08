@@ -1,0 +1,17 @@
+---
+title: "Case Study"
+author: "Ashley Tseng"
+date: "10/8/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 
+```{r}
+library(p8105.datasets)
+
+data(nyc_airbnb)
+```
